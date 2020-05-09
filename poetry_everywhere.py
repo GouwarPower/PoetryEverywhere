@@ -178,7 +178,7 @@ def find_meter(meter_list, base_meter, num_occurences):
         if len(segment) == line_length and re.match(meter_regex, segment):
             lines_by_index.append(indices)
     return lines_by_index
-file_string.replace("\n", " ")
+
 
 def process_meter(meter_occurences, token_list):
     '''
