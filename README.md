@@ -12,7 +12,7 @@ Running the program is as simple as running the command `python poetry_everywher
 ### Haikus
 Generates haikus drawn from consecutive lines of the text.
 
-### Iambic Pentameter and Trochaic
+### Iambic Pentameter and Trochaic Tetrameter
 Finds all of the lines of iambic pentameter or trochaic tetrameter in the text.
 
 ### Make Your Own Meter
